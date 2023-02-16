@@ -55,5 +55,7 @@ class MyApp(App):
         return MyGridLayout()
 
 
+testing
+
 if __name__ == '__main__':
     MyApp().run()
